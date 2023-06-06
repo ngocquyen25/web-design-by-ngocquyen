@@ -97,7 +97,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background-image: url(./assert/css/img/slider/chicago.jpg);
+    background-image: url('/assert/css/img/slider/chicago.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
